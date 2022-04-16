@@ -1,0 +1,19 @@
+name: "nicholasbosco"
+title: "Nicholas Bosco"
+description: |
+  Nicholas' Digital Portfolio
+output_dir: "docs"
+navbar:
+  logo:
+    image: rstudio-logo-white.png
+    href: https://www.rstudio.com
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: Projects.html
+    - text: "Blueprint"
+      href: blueprint.html
+    - text: "R-World"
+      href: R-World.html
+output: distill::distill_article

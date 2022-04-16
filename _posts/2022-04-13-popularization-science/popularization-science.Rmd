@@ -1,0 +1,20 @@
+---
+title: "Putting Science and Technology On Display"
+description: |
+  The bridge between science and the public.
+author:
+  - name: Nicholas Bosco
+    url: {}
+date: 2022-04-13
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The popularization of science and technology is a fascinating topic. I learned about this topic in *INF302: Integrative Approaches to Science & Technology*. The definition of popularization is the idea of sharing and describing a complex idea among people who are not in the same field as you or do not have the same educational background as you puts the importance of communication into perspective. In one of the assignments I had to complete for this class, I had decided to critically analyze the chapters *On the Public Understanding of Science and Expertise and Public Participation* in Sergio Sismondo's book: *An Introduction to Science and Technology Studies*. The analysis involved me taking these two chapters, synthesizing them, and developing future steps of how we can begin to look at the popularization of science and technology. The popularization of science and technology resonates for me because communication and creating a dialogue around the objects/systems we interact with involves multiple points of view and understandings to genuinely grasp what we see and use. Thanks to this class, I can see the intersection of science and technology meet people. As it is the people who rely on this information and these technologies to navigate the real world.
+

@@ -1,0 +1,55 @@
+---
+title: "The Blueprint"
+description: |
+  Here is a case study of a potential application my classmates and I came up with.
+site: distill::distill_article
+---
+
+```{r  out.width = "75%", echo = FALSE}
+knitr::include_graphics(c("images/theblueprintlogo.jpg")) 
+
+```
+[*Thanks to Benner F. for the awesome logo.*]{style="float:right"}
+
+<!-- Inspired by the code from https://github.com/RohanAlexander/website_redux to add photos and captions-->
+
+
+## Outline
+```{r out.width = "75%", echo = FALSE}
+knitr::include_graphics(c("images/bluefanatics.JPG"))
+
+```
+[*Members from Left to Right: Nicholas B., Zoie S., Benner F., Tiago M. and Yahui Z.*]{style="float:right"}
+
+For the fall semester, I was in *INF352: How to Design*, and I was fortunate enough to scratch the surface on the actual thinking and effort that goes into design. To solidify the themes/concepts learned in class, I was fortunate enough to be in a well-rounded group of individuals that, like me, did not have much experience in design, create an app that is beneficial to not only the students of the University of Toronto but University students at large.
+
+
+## Ideation
+```{r out.width = "75%", echo = FALSE}
+knitr::include_graphics(c("images/Samthepersona.png"))
+
+```
+[*Persona was generated through primary and secondary research and interviews*]{style="float:right"}
+
+*The Blue Fanatics* (our group name) consisted of Zoie S., Benner F., Tiago M. and Yahui Z. Together, we presented our idea for an app called "The Blueprint". The vision of our app was to centralize events that happen on campus and provide the students with the information they need so that they can be a part of the University of Toronto Community that is not strictly an academic setting. This was a very apparent issue when we interviewed people trying to understand how current students get involved. We found it was tough for students to become aware of events they would gladly partake in. **So our goal was to take the bits of fragmented information scattered around campus and generate a centralized information app that enables our persona: Sam the Student to be more engaged with extra curricular activities at school.** 
+
+```{r out.width = "75%", echo = FALSE}
+knitr::include_graphics(c("images/IdeationCluster.png"))
+
+```
+[*The possible ways to produce The Blueprint*]{style="float:right"}
+
+When coming up with the ideal solution to produce a platform for a centralized event app. The kinds of ideas here we had decided to categorize in three distinct categories but using a prioritization grid where we evaluate ideas as a group between feasibility and impact there was a unanimous decision on generating "The Blueprint" as a mobile phone applicaton.
+
+
+## Creation/Testing
+
+Thanks to the usability testing and constant iterations, *The Blue Fanatics*, the name we called our group have fleshed out an application that is tangible with our low-fidelity and medium-fidelity prototypes that actually propose the incorporation of "The Blueprint" in society at large and its immediate rewards. To see the storyboards and prototypes used for testing [click here](https://app.mural.co/t/inf3527270/m/inf3527270/1638472354136/09cd464563ec112d7936917ab1e9d1e9407055a3?sender=u1c97820cdca68a9d94e21550).
+
+
+## Next Steps
+<!--This was grabbed from our paper on evolution for the next steps in regards to The Blueprint-->
+
+If our group were to continue the development of our app, there are a couple of things we would like to see added. Fleshing out the amount of information displayed on the device’s screen would likely be one thing we do. If our marketing of the app is based around how it has all the information a student needs, our prototype should reflect that, instead of just having placeholders for where information would go.
+Another feature we would put in is more distinct filters. Being able to switch between academic events, school-affiliated extracurricular, and sporting events, for instance, would allow the user to clearly find what they are looking for.
+

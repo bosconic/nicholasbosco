@@ -1,0 +1,21 @@
+---
+title: "The Show Must Go On"
+description: |
+  Coming to terms with how I present yourself.
+author:
+  - name: Nicholas Bosco
+    url: {}
+date: 2022-04-12
+preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+Being fascinated by stories, one of the more difficult things is capturing my narrative. It is one thing to describe someone else, whether fictional or real life. However, it is easy to pick up on things and relate them to the experiences you have faced and somehow connect them to the real world. For example, in the course *INF401: Practicum Prep*. The goal for the personal narrative assignment is to give me the best tools I have at my disposal to present myself in front of a potential employer to fulfill my required minimum of 100 hours summer placement. Having the opportunity to dig deep within myself to capture my story was a cathartic experience because depending on how I described myself, through the experiences I have made, I can begin to see the capabilities I have. When writing the assignment, I could not help but think of being in the real world engaging with many people, and things are almost like one whole big performance. Sometimes I may present myself as an undergraduate with untapped potential when going into a field I do not have much experience in but am willing to learn. Other times I may be a bit more knowledgeable with what I am being required to do, so I have to play the role of the leader, trying to help guide peers with a point of confusion they may face with a specific assignment. The point here is that one has to be aware of the different appearances when out in the real world as it can be beneficial to getting that job you want.
+
+
