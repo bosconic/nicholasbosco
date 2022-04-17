@@ -3,7 +3,7 @@ title: "Nicholas Bosco"
 image: "images/headshot1.png"
 links:
   - label: LinkedIn
-    url: "www.linkedin.com/in/nicholasbosco"
+    url: "https://www.linkedin.com/in/nicholasbosco"
   - label: Lost In a Tangent
     url: "https://bosconic.github.io/words_and_thoughts/"
   - label: GitHub
