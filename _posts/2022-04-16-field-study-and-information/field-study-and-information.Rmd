@@ -1,7 +1,7 @@
 ---
 title: "Diverting Our Attention To Information Practices"
 description: |
-  A short description of the post.
+  Going out into the world to understand information organization practices and cultures.
 author:
   - name: Nicholas Bosco
     url: {}
@@ -16,5 +16,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-Field study talk with Yahui, George, and Oliver
+- Group Members Geroge, Yahui and Oliver
+- Field Study interviews
+- Masters Graduate admissions officer Jennifer Duggan
+- *INF315: Information Practice in Organizations*
+- lessons learned
 

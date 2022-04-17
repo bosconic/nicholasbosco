@@ -14,6 +14,8 @@ navbar:
       href: Projects.html
     - text: "Blueprint"
       href: blueprint.html
+    - text: "Design Case"
+      href: Design-Case.html
     - text: "R-World"
       href: R-World.html
 output: distill::distill_article

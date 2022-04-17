@@ -1,0 +1,28 @@
+---
+title: "Sancho The Smart Fridge"
+description: |
+  Here is a case study of a potential application my classmates and I came up with.
+site: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Role
+
+## Platform
+
+## Sector
+
+## Methodologies
+
+## Tools Used
+
+## Skills Developed
+
+## Artifacts
+
+## Lessons Learned
+
+
