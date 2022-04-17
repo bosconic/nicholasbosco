@@ -1,5 +1,56 @@
 [
   {
+    "path": "posts/2022-04-16-field-study-and-information/",
+    "title": "Diverting Our Attention To Information Practices",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nicholas Bosco",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-16",
+    "categories": [],
+    "contents": "\nField study talk with Yahui, George, and Oliver\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-04-16T23:23:25-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-04-16-roaming-the-museum/",
+    "title": "What Do We Talk About, When We Talk About Museums?",
+    "description": "Museums are places of wonder and awe. But the experiences gathered from each person is solely unique.",
+    "author": [
+      {
+        "name": "Nicholas Bosco",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-16",
+    "categories": [],
+    "contents": "\n\nIn any society, we are bound by certain norms that dictate how we\nought to behave in the presence of others. When you want to watch a\nmovie in the theatres, you have to abide by the unspoken rule of not\nspeaking because you and everyone else is there to enjoy the movie. When\nwatching a sports game, people go with the sole purpose of seeing\nprofessionals what they do best and to experience the game first hand.\nSome roam through the isles in a grocery store to figure out what they\nneed to purchase, but the grocery store itself is a meeting place to get\nfood. So now the question is, why do museums mediate the experience\nof visitors? A short answer is that museums collect the memories of\nmany but present them to a broader scope of people to satisfy their\nindividual needs.\nMuseums generally take up lots of space within the cities they occupy\nand require special attention for the objects, performances and\nconversations it shelters from the elements of mother nature. Although\nin our minds, Museums accomplish many things for some, they can finally\nput an image to how we imagine “true beauty” to look like. Museums can\nconvey power the particular country has by conquering its’ enemies\nprized possessions; museums can also remind us about those who lived on\nearth many millennia before I am here today writing this blog post.\nHowever, not only the objects or performances within the many rooms can\ninvoke these thoughts; that is only half of the battle. The other half\nof the battle comes from the professionals who run the museum to ensure\nit operates to its prestigious glory. From the conservationists to the\ncurators, every employee within the museum has a role to play.\nImagine the first time you were at a museum. You walk through the\ndoors and are immediately blown away by the sheer amount of objects,\nfrom “ordinary” spoons to dinosaur bones. But you do a mini shuffle in a\ndirected path meticulously charted out by the museum director/curator,\nand you just follow the person in front of you. For a moment, you pause\nat a painting of a person that you feel is just watching you as you\nmove. You then feel a sudden chill and think to yourself: “Those eyes\nare very creepy. I think they are following me.” As a member of the\nmuseum, you are now participating just like everyone else in the room,\nforming your own thoughts and feelings after interacting with the\npainting. And as you get older, you look back at that first moment\nthinking about the painting. This curiously/desire to learn more is the\nreason why you find yourself back in that exact spot having a\ntête-à-tête(a private conversation) with the painting yet again with the\nhope to get something different the next time the two of you meet.\n\n\n\n",
+    "preview": "posts/2022-04-16-roaming-the-museum/Modigliani_portrait.jpeg",
+    "last_modified": "2022-04-16T23:14:59-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-04-16-webscrapping-indian-prime-ministers/",
+    "title": "Standing On the Shoulders Of Prime Ministers",
+    "description": "Learning how about webscrapping and applying lessons learned through R.",
+    "author": [
+      {
+        "name": "Nicholas Bosco",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-16",
+    "categories": [],
+    "contents": "\nThere are many ways to collect data, from the people we interact with\nto the websites we create. What is quite interesting about the data out\nin the world is that it is in front of our faces, but we choose what we\nwould like to investigate or, in my case, to learn more about. Then\ntaking said data and giving it some context transform data into\ninformation, but this information you see or hear can be altered into\nknowledge. Knowledge is what we as people within society try to use the\ninformation gathered. After learning about this new way of gathering\ndata, turning said data into information, and then presenting my\ninformation as knowledge on a particular subject, I decided to look at\nthe list of Indian Prime Ministers from Wikipedia.\nThe purpose of this journey was to learn how to web scrape, following\nthe example from my professor: Rohan Alexander’s book {Telling\nStories with Data](https://www.tellingstorieswithdata.com/gather-data.html#web-scraping).\nI can say I have lots to learn, but happy with the result of the work\nproduced. To see the final results check out: Standing On the Shoulders Of\nPrime Ministers\n\n\n\n",
+    "preview": "posts/2022-04-16-webscrapping-indian-prime-ministers/Primeminister.png",
+    "last_modified": "2022-04-16T22:58:25-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2022-04-13-popularization-science/",
     "title": "Putting Science and Technology On Display",
     "description": "The bridge between science and the public.",
@@ -62,9 +113,9 @@
     ],
     "date": "2022-04-12",
     "categories": [],
-    "contents": "\nThe DI Design group consisted of Marco C., Chyna H. Zoie S., Yahui Z.\nand Elizabeth T. We had the prompt of building a collaborative computer\nin the class INF351: How to Build a Computer and Why?. A\ncollaborative computer is defined as a computer that involves more than\none user at a time. We noticed that sometimes kids are just told what\nthey should know, and on tests, they have to recite what they remember.\nHowever, this way of learning is inefficient in the classroom because\nthis does not prepare the child for the real world, by just memorizing\nfacts will not prepare the student for what is to come. The DI design\ngroup had created a computer (the image above) using an Arduino and the\nLCD to remedy this. We can now make learning more engaging and impactful\nfor the student. So they can learn from their peers and other stimuli\nlike the display to get feedback and improve their learning. This\nintroduction of a computerized flash-card quiz game tries to incorporate\nthe computer into education and point to a new way learning can be\nincorporated into a classroom with the help of a computer. This prompt\ntaught me how computers could have multiple applications and be used as\nan object of enjoyment instead of completing a specific task.\n\n\n\n",
+    "contents": "\nThe DI Design group consisted of Marco C., Chyna H. Zoie S., Yahui Z.\nand Elizabeth T. We had the prompt of building a collaborative computer\nin the class INF351: How to Build a Computer and Why?. A\ncollaborative computer is defined as a computer that involves more than\none user at a time. We noticed that sometimes kids are just told what\nthey should know, and on tests, they have to recite what they remember.\nHowever, this way of learning is inefficient in the classroom because\nthis does not prepare the child for the real world, by just memorizing\nfacts will not prepare the student for what is to come. The DI design\ngroup had created a computer (the image above) using an Arduino and the\nLCD to remedy this. We can now make learning more engaging and impact\nfor the student. So they can learn from their peers and other stimuli\nlike the display to get feedback and improve their learning. This\nintroduction of a computerized flash-card quiz game tries to incorporate\nthe computer into education and point to a new way learning can be\nincorporated into a classroom with the help of a computer. This prompt\ntaught me how computers could have multiple applications and be used as\nan object of enjoyment instead of completing a specific task.\n\n\n\n",
     "preview": "posts/2022-04-12-fun-with-the-arduino/Arduino1_c.jpg",
-    "last_modified": "2022-04-16T19:53:44-04:00",
+    "last_modified": "2022-04-16T22:48:52-04:00",
     "input_file": {}
   },
   {
