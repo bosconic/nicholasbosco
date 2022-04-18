@@ -6,14 +6,17 @@ author:
   - name: Nicholas Bosco
     url: {}
 date: 2022-04-13
+preview: computercode.jpg
 output:
   distill::distill_article:
     self_contained: false
 ---
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+```{r out.width = "75%", echo = FALSE}
+knitr::include_graphics(c("computercode.jpg")) 
 ```
+[*Internet image of computer code*]{style="float:right"}
+
+<!-- The photo is from https://pxhere.com/en/photo/911144-->
+
 Having no experience in Computer Science and Computational Thinking, I thought I was out of my element in the class *INF313: Intro to Computational Thinking*. However, being at the halfway point in the course, I have realized that computational thinking has more facets to life in general, that does not strictly mean it is bound within a computer. I was able to see and use the ideas learned in the class, like step wise refinement, taking a highly complex problem (abstraction) and trying to see if I can break it down (decompose it) into more minor, more manageable problems. As I continue my journey in this course, I begin to have a greater appreciation of the many intricate parts that go into a computer itself that I would not have given a thought to. For example, computers rely on boolean algebra to take specific inputs and produce outputs that the user understands. But navigating around these 1's and 0's is a lot like the same functions we do today with language when describing when we use "and," "or" and "not" in our language. Those words can dictate an outcome of a particular situation.
 

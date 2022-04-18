@@ -5,15 +5,19 @@ description: |
 author:
   - name: Nicholas Bosco
 date: 2022-04-12
-preview: compmicrolab.jpeg
+preview: circuitboard.jpg
 output:
   distill::distill_article:
     self_contained: false
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+```{r out.width = "75%", echo = FALSE}
+knitr::include_graphics(c("circuitboard.jpg")) 
 ```
+[An image of a circuit board]{style="float:right"}
+
+<!--The photo is from: https://pxhere.com/en/photo/915664-->
+
 For my final project in *INF311: Information in the Cultural Imagination*, I took it upon myself to create an Information Culture Playlist that included 3-4 pieces of media ranging from movies to stories to ads and anything in between. I choose to talk about a playlist that revolves around three short stories of Jorge Luis Borges. These short stories are in his translated anthology of selected short stories: *The Labyrinths* to describe computing as a technology and a practice. By critically analyzing his three works: "Pierre Menard: Author of the *Quixote*", "Funes the Memorious," and "The Library of Babel," I try to propose what Borges would say to the idea of "The Computer." In “Pierre Menard: Author of the *Quixote*”, Borges tries to draw out the way we interpret words and if they change meanings if someone/thing else had said them. In “Funes the Memorious,” Borges writes about a man who remembers every little detail but cannot see the bigger picture. Finally, we get to “The Library of Babel,” a place where it is possible to have access to the world's information. As I rely on Borges' words, the connection would not have been possible if it were not for my exposure to this class and the BI program as a whole. Regarding Borges and his writing, his stories try to tackle heavy themes like memory, information and imagination, all of which are themes that students like myself try to navigate. The big question to come out of this paper I hope to dive into as I continue my journey in the BI program is whether there are more connections between computing and literature. More specifically, as our understanding of technologies change, does it affect how we interpret other aspects of our lives? 
 
