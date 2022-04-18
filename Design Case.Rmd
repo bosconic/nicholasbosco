@@ -5,32 +5,55 @@ description: |
 site: distill::distill_article
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Outline
-```{r}
+```{r out.width = "75%", echo = FALSE}
+knitr::include_graphics(c("SmartFridge.png"))
 
 ```
-For the winter semester, I was in *INF353: Designing Interactive Systems *, being tasked with redesigning a more user friendly Smart Fridge was no easy feat, however I feel Hajir and I gladly took this challenge and proposed a potential solution to how we can end up making the Smart Fridge display more User centered, providing the our user, Don Quixote with the features he would like to see from his Smart Fridge and why he cannot rely on just a fridge.
+[*Image of a Smart Fridge grabbed from pngwing*]{style="float:right"}
+
+<!--https://www.pngwing.com/en/free-png-bihma-->
+
+For the winter semester, I was in *INF353: Designing Interactive Systems*, being tasked with redesigning a more User-friendly Smart Fridge was no easy feat; however, I feel Hajir and I gladly took this challenge and proposed a potential solution to how we can end up making the Smart Fridge display more User-centred, providing our User, Don Quixote with the features he would like to see from his Smart Fridge and why he cannot rely on just a fridge.
 
 ## Business Pitch
-Sancho, the fridge is an appliance that can store memories, thoughts and bring people together. He is the center of attention for three-five meals a day as he interacts with people more than your average fridge would. The typical fridge can store food. Also, be a place where you put up family pictures, your younger siblings' art projects, magnets of places you've been, utility bills, recipes, and calendars. Sancho's integrated features include a timer to let the user (Don Quixote) know how long he needs to keep his meals in the oven. An integrated photo gallery so that Sancho can display the photos and other achievements. Sancho will also be equipped with a list function to help Don Quixote keep tabs on what he needs to purchase when he goes shopping next. The final feature integrated into Sancho will be a calendar to keep up with the crucial moments in your family's lives. All of these features are integrated within Sancho, so he can blend with the kitchen's overall aesthetic but tell your family's story as anyone walks up to it and starts interacting with him. He is an addition to the family that needs a few encounters to understand his full potential like all people/things indeed.
+
+Sancho, the fridge is an appliance that can store memories and thoughts and bring people together. He is the center of attention for three-five meals a day as he interacts with people more than your average fridge would. The typical fridge can store food. Also, be a place where you put up family pictures, your younger siblings' art projects, magnets of places you've been, utility bills, recipes, and calendars. Sancho's integrated features include a timer to let the user (Don Quixote) know how long Don Quixote needs to keep his meals in the oven. An integrated photo gallery so that Sancho can display the photos and other achievements. Sancho will also be equipped with a list function to help Don Quixote keep tabs on what he needs to purchase when he goes shopping next. The final feature integrated into Sancho will be a calendar to keep up with the crucial moments in your family's lives. These features are integrated within Sancho, so he can blend with the kitchen's overall aesthetic but tell your family's story as anyone walks up to it and starts interacting with him. He is an addition to the family that needs a few encounters to understand his full potential, like all people/things indeed.
 
 ## Ideation
 ```{r out.width = "75%", echo = FALSE}
 knitr::include_graphics(c("DonQuixote.png"))
 
 ```
-Being fans of the novel of *Don Quixote* by Miguel De Cervantes, we had produced a proto-persona based off of the secondary research we had summarized all of the potential pain points of the current Smart Fridges in the current market and see what can be done to remedy those points of concern. A reason as to why we choose the names Don Quixote(user) and Sancho (The Smart Fridge) was because Sancho was the "sidekick" to Don Quixote, So having a virtual assistant help provide nutritious recipes for Don Quixote is one of the many features we wanted to demonstrate with our design.
+[*Persona was generated through secondary research*]{style="float:right"}
+
+Being fans of the novel of *Don Quixote* by Miguel De Cervantes, we had produced a proto-persona based off of the secondary research we had summarized all of the potential pain points of the current Smart Fridges in the current market and see what can be done to remedy those points of concern. A reason why we chose the names Don Quixote(user) and Sancho (The Smart Fridge) was that Sancho was the "sidekick" to Don Quixote, So having a virtual assistant help provide nutritious recipes for Don Quixote is one of the many features we wanted to demonstrate with our design.
 
 ## Creation/Testing
-```{r}
+```{r out.width = "75%", echo = FALSE}
+knitr::include_graphics(c("SanchoSB.png"))
 
 ```
-First we got the fridge running with our low fidelity prototype using just pencil and paper we drew out the layout for Sancho's "appearance" (Display) and asked our friends to walk us through vocally and by tapping on certain buttons we had drew on the page to see their interaction with Sancho and with their feedback we had produced a high-fidelity prototype using Figma.
+[*High-fidelity Storyboard for Sancho The Smart Fridge*]{style="float:right"}
 
-## Next Steps
+First, we got the fridge running with our low fidelity prototype using just pencil and paper. Next, we drew out the layout for Sancho's "appearance" (Display). Next, we asked our friends to walk us through it vocally. Finally, we drew on the page to see their interaction with Sancho by tapping on particular buttons. With their feedback, we produced a high-fidelity prototype using Figma.
+
+
+```{r out.width = "75%", echo = FALSE}
+knitr::include_graphics(c("figmalogo.png"))
+
+```
+[*Figma logo grabbed from pngwing*]{style="float:right"}
+
+<!--https://www.pngwing.com/en/free-png-nwgzw-->
+
+Figma was introduced in this course by our Professor: Olivier St.Cyr. Is a high-fidelity rendering software used by many in the User Interaction and User Experience industries. This was the first time Hajir and I were ever exposed to Figma, but we were glad to see the results of our hard work.
+
+Feel free to interact with Sancho the Smart Fridge [click here](https://www.figma.com/proto/q1w2NVhwDrA5klbKMahcPM/Sancho-The-Smart-Fridge-Final?page-id=1%3A2&node-id=17%3A4254&viewport=241%2C48%2C0.09&scaling=min-zoom&starting-point-node-id=17%3A4254).
+
+## Lessons Learned
+
+
+
 
 

@@ -51,5 +51,6 @@ Thanks to the usability testing and constant iterations, *The Blue Fanatics*, th
 <!--This was grabbed from our paper on evolution for the next steps in regards to The Blueprint-->
 
 If our group were to continue the development of our app, there are a couple of things we would like to see added. Fleshing out the amount of information displayed on the device’s screen would likely be one thing we do. If our marketing of the app is based around how it has all the information a student needs, our prototype should reflect that, instead of just having placeholders for where information would go.
-Another feature we would put in is more distinct filters. Being able to switch between academic events, school-affiliated extracurricular, and sporting events, for instance, would allow the user to clearly find what they are looking for.
+
+Another feature we would like to see is adding more distinct filters. Being able to switch between academic events, school-affiliated extracurricular, and sporting events, for instance, would allow the user to clearly find what they are looking for.
 
