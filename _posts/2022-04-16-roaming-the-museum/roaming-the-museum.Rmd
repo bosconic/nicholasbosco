@@ -13,8 +13,9 @@ output:
 ---
 
 <!-- Image from: https://commons.wikimedia.org/wiki/File:%27Portrait_of_a_Woman%27_by_Amedeo_Modigliani,_1917-18,_Cleveland_Museum_of_Art.JPG -->
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+```{r out.width = "75%", echo = FALSE}
+knitr::include_graphics(c("Modigliani_portrait.jpeg"))
+
 ```
 In any society, we are bound by certain norms that dictate how we ought to behave in the presence of others. When you want to watch a movie in the theatres, you have to abide by the unspoken rule of not speaking because you and everyone else is there to enjoy the movie. When watching a sports game, people go with the sole purpose of seeing professionals what they do best and to experience the game first hand. Some roam through the isles in a grocery store to figure out what they need to purchase, but the grocery store itself is a meeting place to get food. So now the question is, *why do museums mediate the experience of visitors?* A short answer is that museums collect the memories of many but present them to a broader scope of people to satisfy their individual needs.
 

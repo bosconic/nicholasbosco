@@ -9,7 +9,7 @@ site: distill::distill_article
 knitr::include_graphics(c("images/theblueprintlogo.jpg")) 
 
 ```
-[*Thanks to Benner F. for the awesome logo.*]{style="float:right"}
+[*Thanks to Benner Feng for the awesome logo.*]{style="float:right"}
 
 <!-- Inspired by the code from https://github.com/RohanAlexander/website_redux to add photos and captions-->
 
@@ -19,7 +19,7 @@ knitr::include_graphics(c("images/theblueprintlogo.jpg"))
 knitr::include_graphics(c("images/bluefanatics.JPG"))
 
 ```
-[*Members from Left to Right: Nicholas B., Zoie S., Benner F., Tiago M. and Yahui Z.*]{style="float:right"}
+[*Members from Left to Right: Nicholas Bosco, Zoie Soying, Benner Feng, Tiago Martins and Yahui Zhang*]{style="float:right"}
 
 For the fall semester, I was in *INF352: How to Design*, and I was fortunate enough to scratch the surface on the actual thinking and effort that goes into design. To solidify the themes/concepts learned in class, I was fortunate enough to be in a well-rounded group of individuals that, like me, did not have much experience in design, create an app that is beneficial to not only the students of the University of Toronto but University students at large.
 
