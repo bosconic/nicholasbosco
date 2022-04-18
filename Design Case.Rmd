@@ -1,7 +1,7 @@
 ---
 title: "Sancho The Smart Fridge"
 description: |
-  Sancho.
+  Designing a Smart Fridge Display.
 site: distill::distill_article
 ---
 
@@ -30,11 +30,11 @@ knitr::include_graphics(c("DonQuixote.png"))
 Being fans of the novel of *Don Quixote* by Miguel De Cervantes, we had produced a proto-persona based off of the secondary research we had summarized all of the potential pain points of the current Smart Fridges in the current market and see what can be done to remedy those points of concern. A reason why we chose the names Don Quixote(user) and Sancho (The Smart Fridge) was that Sancho was the "sidekick" to Don Quixote, So having a virtual assistant help provide nutritious recipes for Don Quixote is one of the many features we wanted to demonstrate with our design.
 
 ## Creation/Testing
-```{r out.width = "75%", echo = FALSE}
-knitr::include_graphics(c("SanchoSB.png"))
+```{r out.width= "75%", echo = FALSE}
+knitr::include_graphics(c("SBSancho.png"))
 
 ```
-[*High-fidelity Storyboard for Sancho The Smart Fridge*]{style="float:right"}
+[*Partial High-fidelity Storyboard for Sancho The Smart Fridge*]{style="float:right"}
 
 First, we got the fridge running with our low fidelity prototype using just pencil and paper. Next, we drew out the layout for Sancho's "appearance" (Display). Next, we asked our friends to walk us through it vocally. Finally, we drew on the page to see their interaction with Sancho by tapping on particular buttons. With their feedback, we produced a high-fidelity prototype using Figma.
 
@@ -53,6 +53,7 @@ Feel free to interact with Sancho the Smart Fridge [click here](https://www.figm
 
 ## Lessons Learned
 
+I had a few takeaways from the project that I would like to reflect on here. The first takeaway is that when designing, it is best to start knowing the problem you are trying to solve; in this case, it generates a more user-friendly fridge display. The second takeaway is that in collaborative work, you need to be able to communicate, as this was where Hajir and I shone when taking our users' feedback from the low fidelity prototype and applying it to the high-fidelity. The final takeaway is that when designing, assumptions made are critical to the work; acknowledging the assumptions in design can really differentiate the kind of designs you create, which again looks at **communication** being the key.
 
 
 
