@@ -23,7 +23,7 @@ The progression first report started out with Marriage. I tried to get a glimpse
 ```
 
 
-Moving onto the second report, I was able to work with Benner Feng and Elizabeth Yao Tong The three of us looked at the Canadian GSS Family Cycle 31 Of 2017. Through the numerous categories and the sheer about of data provided by CHASS (Computing in the Humanities and Social Sciences), Data Center has partnered with many institutions to allow students from many disciplines to access data and interpret our world through data. The basis for the report was trying to capture any trends within the Canadian Family and try to write a narrative on our findings through the data gathered. To see our total findings and narrative, check out [Capturing the Happy Family](https://github.com/bosconic/Capturing_the_Happy_Family)
+Moving onto the second report, I was able to work with Benner Feng and Elizabeth Yao Tong The three of us looked at the Canadian GSS Family Cycle 31 Of 2017. Through the numerous categories and the sheer about of data provided by CHASS (Computing in the Humanities and Social Sciences), Data Center has partnered with many institutions to allow students from many disciplines to access data and interpret our world through data. The basis for the report was trying to capture any trends within the Canadian Family and try to write a narrative on our findings through the data gathered. To see our total findings and narrative, check out [Capturing the Happy Family](https://github.com/bosconic/Capturing_the_Happy_Family).
 
 <!-- Got to add a graph from report to give some visiuals-->
 ```{r}
@@ -31,11 +31,11 @@ Moving onto the second report, I was able to work with Benner Feng and Elizabeth
 ```
 
 
-The final report for the class I am currently writing is about Polygamy in Senegal during the 1980s. The idea for this report was to link the story, *So Long a Letter* by Mariama Ba about the main character's attitudes towards polygamy with the data from the *Senegal DHS 1986* give some context to why the author of the book was writing about polygamy the way she does.
+The final report for the class I am currently writing is about Polygamy in Senegal during the 1980s. The idea for this report was to link the story, *So Long a Letter* by Mariama Ba about the main character's attitudes towards polygamy with the data from the *Senegal DHS 1986* give some context to why the author of the book was writing about polygamy the way she does, check out [So Long Polygamy](https://github.com/bosconic/SoLongPolygamy).
 
 <!-- Insert Link and more info about topic when time comes, add potential R Chunk?-->
 
 
 ## Future Hopes
 
-With my newfound appreciation for R, I am confident my curiosity and sheer enthusiasm for stories will be forever impacted. Now I can use data to touch on topics I was initially scared to look into, like statistics, math and finance. But I also see there is a whole new side of using R with the ideas I am a bit more familiar with and see if I can use the data collected and gathered as a way to speak to a broader audience or to a reader who has different interests and background knowledge than me but still gather the messages I try to put out with my future works. Either way, I think this class really changed how I view information, data, and knowledge. 
+With my new found appreciation for R, I am confident my curiosity and sheer enthusiasm for stories will be forever impacted. Now I can use data to touch on topics I was initially scared to look into, like statistics, math and finance. But I also see there is a whole new side of using R with the ideas I am a bit more familiar with and see if I can use the data collected and gathered as a way to speak to a broader audience or to a reader who has different interests and background knowledge than me but still gather the messages I try to put out with my future works. Either way, I think this class really changed how I view information, data, and knowledge. 
