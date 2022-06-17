@@ -4,19 +4,17 @@ image: "images/headshot1.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/nicholasbosco"
-  - label: Lost In a Tangent
-    url: "https://bosconic.github.io/words_and_thoughts/"
   - label: GitHub
     url: "https://github.com/bosconic"
   - label: Email
-    url: "mailto:bosconicholas03@gmail.com"
+    url: "mailto:nicholasbosco@outlook.com"
 output:
   postcards::trestles
 site: distill::distill_website
 ---
  
 ## Bio
-As a kid, I have always been interested in a good story. My desire to share ideas and experiences with others is my biggest strength. I have tried many fields of study throughout my academic journey but trying to stick within the social science/humanities stream. Currently in my 3rd year at the University Of Toronto studying Information Studies. I feel this program encapsulates what I value most: the importance of narrative and what it means to share information. As I navigate the world, I find my curiosity leads me to extraordinary discoveries. I am very passionate about learning and reading for pleasure; I have created an Instagram book talk account called: *Lost In a Tangent Book Club*. The account is where I read books and share their summary and analysis of a message I was able to draw from the book and connect it to my experiences. I spend most of my time connecting with people and having a meaningful dialogue. In the future, I hope to become a museum curator because I feel the role of the curator is like a mediator between sharing the stories of objects and their function.
+As a kid, I have always been interested in a good story. My desire to share ideas and experiences with others is my biggest strength. I have tried many fields of study throughout my academic journey but trying to stick within the social science/humanities stream. Currently in my 3rd year at the University Of Toronto studying Information Studies. I feel this program encapsulates what I value most: the importance of narrative and what it means to share information. As I navigate the world, I find my curiosity leads me to extraordinary discoveries. I am very passionate about learning and reading for pleasure. I spend most of my time connecting with people and having a meaningful dialogue. In the future, I hope to become a museum curator because I feel the role of the curator is like a mediator between sharing the stories of objects and their function.
 
 ## Education
 **University Of Toronto** | Toronto, ON
