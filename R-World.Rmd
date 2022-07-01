@@ -31,9 +31,9 @@ Moving onto the second report, I was able to work with Benner Feng and Elizabeth
 ```
 
 
-The final report for the class I am currently writing is about Polygamy in Senegal during the 1980s. The idea for this report was to link the story, *So Long a Letter* by Mariama Ba about the main character's attitudes towards polygamy with the data from the *Senegal DHS 1986* give some context to why the author of the book was writing about polygamy the way she does, check out [So Long Polygamy](https://github.com/bosconic/SoLongPolygamy).
+The final report for the class I had wrote about Polygamy in Senegal during the 1980s. The idea for this report was to link the story, *So Long a Letter* by Mariama Ba, more specifically about the main character's attitudes towards polygamy with the data from the *Senegal DHS 1986* to give some context to why the author of the book was writing about polygamy the way she does, check out [So Long Polygamy](https://github.com/bosconic/SoLongPolygamy).
 
-<!-- Insert Link and more info about topic when time comes, add potential R Chunk?-->
+
 
 
 ## Future Hopes

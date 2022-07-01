@@ -12,20 +12,21 @@ output:
   postcards::trestles
 site: distill::distill_website
 ---
- 
+
 ## Bio
+
 As a kid, I have always been interested in a good story. My desire to share ideas and experiences with others is my biggest strength. I have tried many fields of study throughout my academic journey but trying to stick within the social science/humanities stream. Currently in my 3rd year at the University Of Toronto studying Information Studies. I feel this program encapsulates what I value most: the importance of narrative and what it means to share information. As I navigate the world, I find my curiosity leads me to extraordinary discoveries. I am very passionate about learning and reading for pleasure. I spend most of my time connecting with people and having a meaningful dialogue. In the future, I hope to become a museum curator because I feel the role of the curator is like a mediator between sharing the stories of objects and their function.
 
 ## Education
-**University Of Toronto** | Toronto, ON
 
-B.I. in Information Studies | September 2021 - Current
+**University Of Toronto** \| Toronto, ON
 
-**University Of Toronto** | Toronto, ON
+B.I. in Information Studies \| September 2021 - Current
 
-B.A. in African Studies | September 2018 - June 2021
+**University Of Toronto** \| Toronto, ON
 
-**Chaminade College School** | Toronto, ON
+B.A. in African Studies \| September 2018 - June 2021
 
-OSSD | September 2014 - June 2018
+**Chaminade College School** \| Toronto, ON
 
+OSSD \| September 2014 - June 2018
